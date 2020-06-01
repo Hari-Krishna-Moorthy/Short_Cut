@@ -1,0 +1,5 @@
+wikipedia 
+bs4 
+gTTS 
+requests 
+playsound 
